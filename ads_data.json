@@ -2,8 +2,7 @@
   "ads_type": [
     {
       "adTypes": [
-        "appOpen",
-        "native"
+        "appOpen"
       ],
       "adName": "admob",
       "banner": "ca-app-pub-2299291161271404/6470463983",
@@ -15,8 +14,7 @@
     },
     {
       "adTypes": [
-        "appOpen",
-        "native"
+        "appOpen"
       ],
       "adName": "applovin",
       "banner": "28b29eadb3325eb7",
